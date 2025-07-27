@@ -3,7 +3,7 @@ Aprender a integrar Spring Security en una aplicación Spring Boot para proteger
 
 Instrucciones:
 
-Crear el proyecto con Spring Initializr
+-Crear el proyecto con Spring Initializr
 - Dependencias: Spring Web, Spring Security, Thymeleaf (opcional).
 Configurar usuarios en memoria
 - Usuario 1: admin / admin123 con rol ADMIN.
